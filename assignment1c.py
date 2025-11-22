@@ -25,7 +25,7 @@ def calculate_savings(portion_saved):
 
 max_savings = calculate_savings(1.0)
 if max_savings < (down_payment - 100):
-    print("It is not possible to save for the down payment in 36 months.")
+    print("It is not possible to save for the down payment in three years.")
 else:
     while True:
         steps += 1
