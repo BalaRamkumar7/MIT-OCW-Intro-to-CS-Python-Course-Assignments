@@ -1,4 +1,4 @@
-from ps3 import *
+from assignment3 import *
 
 #
 # Test code
