@@ -3,7 +3,7 @@
 # The 6.0001 Word Game
 # Created by:
 #
-# Name          : <your name>
+# Name          : Bala Ramkumar
 # Collaborators : <your collaborators>
 # Time spent    : <total time>
 
